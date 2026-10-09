@@ -1,0 +1,11 @@
+
+# Eclipse workspace metadata
+.metadata/
+.settings/
+
+# Compiled Java output
+bin/
+*.class
+
+# Logs
+*.log
